@@ -4,9 +4,9 @@ This project is a mildly stripped-down starting point derived from the repositor
 
 ## Usage
 
-1. [Install node.js](http://nodejs.org/#download)
-2. Clone and run:
+Start with installing [Install node.js](http://nodejs.org/#download)
 
+Clone the project and execute the specs:
 
     git clone git://github.com/searls/jasmine-node-skeleton.git
     cd jasmine-node-skeleton
